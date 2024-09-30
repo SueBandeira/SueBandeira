@@ -16,9 +16,9 @@ I love solving complex problems with code and always strive to improve my skills
 
 ### 📊 GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SueBandeira&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/YourUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SueBandeira&layout=compact&theme=radical)](https://github.com/SueBandeira/github-readme-stats)
 
 ### 💻 Featured Projects:
 
