@@ -26,8 +26,8 @@ I love solving complex problems with code and always strive to improve my skills
 
 ### 💻 Featured Projects:
 
-- [**Project 1**](https://github.com/SueBandeira/DesafioOne)  
-  A [HTML/CSS/Java] project that [solves a specific problem].
+- [**ChallengeOne**](https://github.com/SueBandeira/DesafioOne)  
+ A project made with HTML, CSS and JavaScript that changes the letters of words so that the message is encrypted.
 
 ### 📫 How to reach me:
 
